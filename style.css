@@ -19,6 +19,10 @@ body {
 }
 
 /* LAYOUTS */
+.overlay {
+  display: none;
+}
+
 .modal {
   background-color: orange;
   height: 200px;
